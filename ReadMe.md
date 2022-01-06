@@ -13,3 +13,4 @@
 ## Future scope
 - Adding advisory portal
 - Creating significant feature api
+- Fact generation and assertion in prolog

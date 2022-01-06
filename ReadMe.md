@@ -8,4 +8,8 @@
 - Does create cautionary guidelines for people 
 
 ## Thanks to
-- Asmita Mukherjee and Shivay Lamba for giving out their valuable feedbacks and insights.
+- Asmita Mukherjee and Shivay Lamba for giving out their valuable feedbacks and insights
+
+## Future scope
+- Adding advisory portal
+- Creating significant feature api
